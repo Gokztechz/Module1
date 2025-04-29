@@ -1,4 +1,7 @@
 # Datatypes-Read and Print a String in Python
+# NAME: GOKUL SHARAN R
+# REG NO: 212223040052
+
 
 ## 🎯 Aim
 To write a Python program to read a string from the user and then print it.
