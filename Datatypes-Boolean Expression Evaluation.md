@@ -1,5 +1,5 @@
 
-# Ex 1:Datatypes-Boolean Expression Evaluation in Python
+# Datatypes-Boolean Expression Evaluation in Python
 # NAME: GOKUL SHARAN R
 # REG NO: 212223040052
 
